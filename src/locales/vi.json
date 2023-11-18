@@ -1,0 +1,61 @@
+{
+    "_name": "Tiếng Việt",
+    "languages": "Ngôn ngữ",
+    "index": "Trang chủ",
+    "folder": "Thư mục",
+    "notify": {
+      "title": "Thông báo"
+    },
+    "copy": {
+      "text": "Sao chép",
+      "success": "Sao chép thành công",
+      "error": "Sao chép thất bại"
+    },
+    "list": {
+      "view": {
+        "gridMode": "Xem dạng lưới",
+        "listMode": "Xem danh sách"
+      },
+      "auth": "Mày là thằng nào, nhập mật khẩu",
+      "title": {
+        "file": "Tệp",
+        "moditime": "Thời gian chỉnh sửa",
+        "size": "Kích thước",
+        "operation": "Hành động"
+      },
+      "loading": "Đang tải...",
+      "opt": {
+        "copy": "Sao chép liên kết",
+        "newTab": "Mở trong tab mới",
+        "download": "Tải xuống"
+      },
+      "total": "Tổng",
+      "item": "item"
+    },
+    "search": {
+      "placeholder": "Tìm kiếm tài nguyên..."
+    },
+    "page": {
+      "video": {
+        "play": "Phát",
+        "download": "Tải xuống",
+        "link": "Đường dẫn tải xuống"
+      },
+      "text": {
+        "loading": "Đang tải..."
+      }
+    },
+    "setting": {
+      "clear": {
+        "text": "Xoá bộ nhớ đệm",
+        "success": "Xoá bộ nhớ đệm thành công"
+      }
+    },
+    "checkVersion": {
+      "tips": "Có phiên bản mới, <a href='${url}'>Đi đến GitHub</a>"
+    },
+    "error": {
+      "shortcut_not_down": "Không thể mở/tải xuống shotcut",
+      "401": "Không có quyển truy cập, vui lòng đăng nhâp"
+    }
+  }

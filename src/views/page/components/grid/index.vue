@@ -41,6 +41,7 @@
                 v-if="file.thumbnailLink"
                 v-lazy="thum(file.thumbnailLink)"
                 :alt="file.name"
+                style="object-fit:contain"
               />
               <svg v-else class="file-icon iconfont" aria-hidden="true">
                 <use :xlink:href="getIcon(file.mimeType)" />
